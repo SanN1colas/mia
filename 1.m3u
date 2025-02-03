@@ -1,10 +1,10 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.cn/e.xml"
 #EXTINF:-1  tvg-name="CCTV1" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png"  group-title="🌐央视频道",CCTV1
-http://b.zgjok.com:35455/itv/1000000005000265001.m3u8?cdn=ystenlive
+http://dsm.huarunguoji.top:35455/itv/1000000005000265001.m3u8?cdn=ystenlive
 #EXTINF:-1  tvg-name="CCTV2" tvg-logo="https://live.fanmingming.cn/tv/CCTV2.png"  group-title="🌐央视频道",CCTV2
-http://b.zgjok.com:35455/itv/1000000001000023315.m3u8?cdn=ystenlive
+http://dsm.huarunguoji.top:35455/itv/1000000001000023315.m3u8?cdn=ystenlive
 #EXTINF:-1  tvg-name="CCTV3" tvg-logo="https://live.fanmingming.cn/tv/CCTV3.png"  group-title="🌐央视频道",CCTV3
-http://b.zgjok.com:35455/itv/1000000005000265003.m3u8?cdn=ystenlive
+http://dsm.huarunguoji.top:35455/itv/1000000005000265003.m3u8?cdn=ystenlive
 #EXTINF:-1  tvg-name="CCTV5" tvg-logo="https://live.fanmingming.cn/tv/CCTV5.png"  group-title="🌐央视频道",CCTV5
 http://b.zgjok.com:35455/itv/1000000005000265005.m3u8?cdn=ystenlive
 #EXTINF:-1  tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.cn/tv/CCTV5+.png"  group-title="🌐央视频道",CCTV5+
